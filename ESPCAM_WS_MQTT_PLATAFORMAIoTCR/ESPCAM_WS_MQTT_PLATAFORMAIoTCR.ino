@@ -36,17 +36,17 @@
 
 
 //CONEXION CON IoTPROJECTS
-String dId = "2976";
-String webhook_pass = "mb8C6aiDgo";
-String webhook_endpoint = "http://192.168.0.12:3001/api/getdevicecredentials";
-const char *mqtt_server = "192.168.0.12";
-const char* wsserver = "192.168.0.12";
+String dId = "";
+String webhook_pass = "";
+String webhook_endpoint = "";
+const char *mqtt_server = "";
+const char* wsserver = "";
 int wsport = 3004;
 
 //CONFIGURACION DE WiFi
-const char* hostname = "ESP32CAM";
-const char* ssid = "Neuro";
-const char* password = "Neuroaula17$";
+const char* hostname = "";
+const char* ssid = "Nombre de la red";
+const char* password = "Contraseña";
 
 const long sendDBInterval = 300000;
 

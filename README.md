@@ -44,7 +44,6 @@ A la hora de ejecutar el programa desconectas esas conexiones.
 - ArduinoJson
 - PubSubClient
 - esp_camera
-- base64
 - ArduinoJson
 - WebSocketsClient
 ________________________________________________

@@ -27,6 +27,8 @@ Proyecto ralizado para equipar a los estudiantes con conocimientos avanzados par
 - Herramientas
 - Partition scheme: Huge APP
 
+ ## Paso 5: Debes tener un servicio WebSocketServer corriendo en local o tu instancia en nube
+
 ## Contribución
 
 Este proyecto ha sido posible gracias a la colaboración de Andrés Hernández Chaves e Ignacio Cordero Chinchilla durante la práctica supervisada del año 2023.
